@@ -1,6 +1,2 @@
-echo "# HomePage" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/TLBBVN/HomePage.git
-git push -u origin master
+HomePage
+Trang chủ
